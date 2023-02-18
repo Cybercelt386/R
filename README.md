@@ -34,11 +34,11 @@ Lot one produces a p-value of 1 which means there is not a direct coralation bet
 
 ## Study Design: MechaCar vs Competition
 
-###metrics
+### Metrics
 The metric(s) I will test is vehicle_weight and mpg.
 The null hypothothis for this will determine whether there is a realtionship between vehicle weight and MPG (miles per gallon). 
 
-###Null hypothosis
+### Null hypothosis
 If the p-values of mpg is greater than 0.5 than I accept the null hypothothis and there is no relationship between them and the results are due to random fluctuations. If the p-values of mpg is less than 0.5 I will reject the null hypothosis and accept the alternet hypothisis that there is in fact a statisical relationship between the two metrics.
 
 ###TTesting method
