@@ -37,4 +37,5 @@ The metric(s) I will test is vehicle_weight and mpg.
 The null hypothothis for this will determine whether there is a realtionship between vehicle weight and MPG (miles per gallon). 
 If the p-values of mpg is greater than 0.5 than I accept the null hypothothis and there is no relationship between them and the results are due to random fluctuations. If the p-values of mpg is less than 0.5 I will reject the null hypothosis and accept the alternet hypothisis that there is in fact a statisical relationship between the two metrics. In order to test this I will run a two-sample t-test as we need to test the relationship of both values to each other.
 The data needed will be thw two collumns from the MechaCar_mpg file. they will then be fitted into the t-test.
+the results of my test is a p-value of 2.2e-16 this is an extreamly low figure therefore I reject the null hypothisis and accept the alternative hypothsis.
 
